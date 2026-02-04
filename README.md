@@ -2,7 +2,7 @@
 
 ## Game Description
 
-**OUTERN: The Bloody Escape** is a simple graphics project created using the **iGraphics** library in C. The project demonstrates basic graphics programming concepts like drawing shapes, handling user input, and simple animations.
+**OUTERN: The Bloody Escape** is a simple graphics project created using the **iGraphics** library in C. The project demonstrates basic graphics programming concepts like drawing shapes, handling user input and simple animations.
 
 ## Features
 - Playable characters with different attack styles.
